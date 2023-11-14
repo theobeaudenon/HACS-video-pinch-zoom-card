@@ -15,6 +15,6 @@ jobs:
       - name: HACS validation
         uses: "hacs/action@main"
         with:
-          category: "integration"
+          category: "plugin"
           ignore: "brands images information topics"
 
