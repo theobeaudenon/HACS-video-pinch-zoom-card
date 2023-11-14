@@ -1,6 +1,12 @@
 # HACS-video-pinch-zoom-card
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs) 
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theobeaudenon/HACS-video-pinch-zoom-card/main/pinch-to-zoom.png">
+</p>
+
+
 ## Overview
 Enhance your Home Assistant experience with our "Pinch-to-Zoom Camera Control" plugin. This custom card integration allows you to intuitively zoom in and out of your camera feeds using simple pinch gestures. Designed to seamlessly integrate with a variety of camera models, it offers an efficient and user-friendly way to closely monitor specific areas of your home or office. Whether you're using a smartphone, tablet, or touchscreen display, our plugin ensures smooth and responsive control over your camera's zoom functionality, directly from the Home Assistant interface.
 
